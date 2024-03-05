@@ -8,8 +8,8 @@
   "author": "Daniil Sedokhin sedokhin.daniil@gamil.com",
   "license": "CC-BY-4.0",
   "config": {
-  "commitizen": {
-  "path": "cz-conventional-changelog"
+    "commitizen": {
+      "path": "cz-conventional-changelog"
     }
   }
 }
